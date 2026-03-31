@@ -4,10 +4,10 @@
 * **Course:** AI/ML BTech (Project-Based Learning)
 
 ### 👥 Team Members
-| Name | University Roll Number | Section |
+| Name | University Roll Number | Class Roll Number |
 | :--- | :--- | :--- |
-| `Akshat Joshi` | `2028632` | `[Your Section]` |
-| `Darsh Bhardwaj` | `[Teammate 1 Roll Number]` | 
-| `[Teammate 2 Name]` | `[Teammate 2 Roll Number]` | `[Section]` |
+| `Akshat Joshi` | `2028632` | `30` |
+| `Darsh Bhardwaj` | `2028696` | `39` |
+| `Aarav` | `2028603` | `25` |
 
 ---
