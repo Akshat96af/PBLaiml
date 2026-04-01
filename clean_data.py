@@ -28,4 +28,3 @@ out_file = "cleaned_employee_dataset.csv"
 data.to_csv(out_file, index=False)
 
 #the dataset is cleaned
-
